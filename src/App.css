@@ -1,0 +1,111 @@
+.bookImage{
+  transition: 100ms linear;
+}
+
+.bookImage:hover{
+  margin-top: -10px;
+  box-shadow: 5px 5px #02B5AD;
+}
+
+.podcastButton{
+  transition: 100ms linear;
+}
+
+.podcastButton:hover{
+  margin-top: -10px;
+  box-shadow: 5px 5px #02B5AD;
+}
+
+
+.App {
+  text-align: left;
+  background-color: #EEEEEE;
+  padding-top: 50px;
+
+}
+
+.paper{
+  margin: 0 auto;
+  border-radius: 5px;
+  background-color: white;
+
+  padding-top: 100px;
+  min-height: 100vh;
+  max-width: 1000px;
+  margin-bottom: 50px;
+ box-shadow: 0 3px 6px rgba(0,0,0,0.16), 0 3px 6px rgba(0,0,0,0.23);}
+
+.divider{
+  margin-right: 50px;
+}
+
+.contentSmall{
+  padding-left: 40px;
+  padding-right: 40px;
+  font-size: 20px;
+  line-height: 150%;
+  color : black;
+  transition: 200ms linear;
+  min-width: 200px;
+}
+
+.content{
+  padding-left: 160px;
+  padding-right: 160px;
+  font-size: 20px;
+  line-height: 150%;
+  color : black;
+  transition: 200ms linear;
+  min-width: 200px;
+}
+
+a {
+    color: #ff8f00;
+}
+a:hover {
+    text-decoration: underline;
+}
+
+
+.content:hover{
+  transition: 200ms linear;
+}
+
+.headingSmall{
+  font-size: 60px;
+  font-family: 'Lobster', cursive;
+  line-height: 150%;
+    padding-left: 30px;
+}
+
+.heading{
+  font-size: 60px;
+  font-family: 'Lobster', cursive;
+  line-height: 150%;
+  padding-left: 100px;
+}
+
+.App-logo {
+  animation: App-logo-spin infinite 20s linear;
+  height: 80px;
+}
+
+.App-header {
+  background-color: #222;
+  height: 150px;
+  padding: 20px;
+  color: white;
+}
+
+.App-title {
+  font-size: 1.5em;
+}
+
+.App-intro {
+  font-size: large;
+}
+
+@keyframes App-logo-spin {
+  from { transform: rotate(0deg); }
+  to { transform: rotate(360deg); }
+}
