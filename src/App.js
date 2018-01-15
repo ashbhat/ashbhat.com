@@ -387,6 +387,10 @@ class App extends Component {
                 source='youtube'
               />
             <h1>Coverage</h1>
+            <h3>2018</h3>
+            • <strong>CBS Evening News</strong>: Berkeley students battle fake news (<a href="https://www.cbsnews.com/news/berkeley-students-battle-fake-news-with-bot-buster/">link</a>)
+            <br/>
+            • <strong>Just Kidding News</strong>: Students Develop Way to Expose Bots on Twitter (<a href="https://www.youtube.com/watch?v=fgihJ8NCB8g">link</a>)
             <h3>2017</h3>
             • <strong>Adage Magazine</strong>: Creativity 50 2017 (<a href="http://adage.com/article/news/creativity-50-2017/311602/">link</a>)
             <br/>
@@ -457,7 +461,7 @@ class App extends Component {
           To get started, edit <code>src/App.js</code> and save to reload.
         </p>
         **/}
-        <center>🔥 Made on New Years 2018 by a bored & unfortunately sober Ash Bhat. Inspired by Google Docs. <a href="https://github.com/ashbhat">Source</a> 🔥 </center>
+        <center>🔥 Made on New Years 2018 by a bored & unfortunately sober Ash Bhat. Inspired by Google Docs. <a href="https://github.com/ashbhat/ashbhat.com">Source</a> 🔥 </center>
         <br/>
       </div>
     );
